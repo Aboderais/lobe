@@ -1,1 +1,1 @@
-# lobe
+# this project is from <a href="https://www.frontendpractice.com/projects/oh-studio">Frontend Practice</a>, called lobe, they just give picture of the final project and you just try to make it similar.they also give what type of color they used in the project.#this my second frontend practice project.
